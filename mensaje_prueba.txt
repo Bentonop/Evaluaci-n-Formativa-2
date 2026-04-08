@@ -1,0 +1,2 @@
+with open("mensaje_prueba.txt", "w", encoding="utf-8") as f:
+    f.write("Hola, este es un mensaje de prueba para cifrado AES.")
